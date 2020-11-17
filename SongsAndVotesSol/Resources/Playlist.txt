@@ -1,0 +1,3 @@
+@"C:\Users\DJTom\Desktop\20201007_hodina\SongsAndVotesSol\Resources\Peter_Nemec_-_Future_Life_OFFICIAL_LYRICS_VIDEO_1.mp3";
+@"C:\Users\DJTom\Desktop\20201007_hodina\SongsAndVotesSol\Resources\Peter_Nemec_-_247_AUDIO.mp3;
+@"C:\Users\DJTom\Desktop\20201007_hodina\SongsAndVotesSol\Resources\Juice_WRLD_-_Fast.mp3;

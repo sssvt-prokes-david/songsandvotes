@@ -1,0 +1,11 @@
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\obj\Debug\SongsAndVotesMain.csprojAssemblyReference.cache
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\SongsAndVotesMain.exe.config
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\SongsAndVotesMain.exe
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\SongsAndVotesMain.pdb
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\SongsAndVotesCommon.dll
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\NAudio.dll
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\SongsAndVotesCommon.pdb
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\bin\Debug\NAudio.xml
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\obj\Debug\SongsAndVotesMain.csproj.CopyComplete
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\obj\Debug\SongsAndVotesMain.exe
+X:\Programování_Třeťák\SongsAndVotes\20201007_hodina\SongsAndVotesSol\SongsAndVotesMain\obj\Debug\SongsAndVotesMain.pdb
